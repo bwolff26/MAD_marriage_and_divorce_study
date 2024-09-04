@@ -15,6 +15,10 @@ The dataset contains records of approximately 4,900+ divorces for the 15 years p
 
 The dataset is originally in Spanish and I did translate all the column headers into English." ...
 
+Like the title alludes to, divorces are between 2001 and 2014. Invoking the spirit of Hegel, we'll assume that all of the aforementioned divorces are reflective of a similar enough mentality of the epoch they are culled from. And, on that note, be wary to extrapolate (sp?) results from this to others given the regional factors involved.
+
+Unfortunately, much of the data had nulls.
+
 okcupid_profiles.csv
 
 Kaggle 'OkCupidProfiles' from Laxel. Unsure where they got the data from. Seemingly from their own scraping.
